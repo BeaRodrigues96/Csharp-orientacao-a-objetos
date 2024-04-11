@@ -11,7 +11,7 @@ namespace CursoBalta.ContentContext
             Url = url;
         }
 
-        public string Title { get; set; } = ""; //Ou, em vez de "" também podemos usar string.Empty. Estava dando erro, e esta foi uma forma de consertar, pois as propriedades não são anuláveis (nullable), mas não têm um valor padrão definido.
-        public string Url { get; set; } = ""; //Ou, em vez de "" também podemos usar string.Empty. Estava dando erro, e esta foi uma forma de consertar, pois as propriedades não são anuláveis (nullable), mas não têm um valor padrão definido.
+        public string Title { get; set; } = ""; 
+        public string Url { get; set; } = ""; 
     }
 }

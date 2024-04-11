@@ -1,0 +1,14 @@
+C:\dev\CursoBalta\bin\Debug\net8.0\CursoBalta.exe
+C:\dev\CursoBalta\bin\Debug\net8.0\CursoBalta.deps.json
+C:\dev\CursoBalta\bin\Debug\net8.0\CursoBalta.runtimeconfig.json
+C:\dev\CursoBalta\bin\Debug\net8.0\CursoBalta.dll
+C:\dev\CursoBalta\bin\Debug\net8.0\CursoBalta.pdb
+C:\dev\CursoBalta\obj\Debug\net8.0\CursoBalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoBalta\obj\Debug\net8.0\CursoBalta.AssemblyInfoInputs.cache
+C:\dev\CursoBalta\obj\Debug\net8.0\CursoBalta.AssemblyInfo.cs
+C:\dev\CursoBalta\obj\Debug\net8.0\CursoBalta.csproj.CoreCompileInputs.cache
+C:\dev\CursoBalta\obj\Debug\net8.0\CursoBalta.dll
+C:\dev\CursoBalta\obj\Debug\net8.0\refint\CursoBalta.dll
+C:\dev\CursoBalta\obj\Debug\net8.0\CursoBalta.pdb
+C:\dev\CursoBalta\obj\Debug\net8.0\CursoBalta.genruntimeconfig.cache
+C:\dev\CursoBalta\obj\Debug\net8.0\ref\CursoBalta.dll

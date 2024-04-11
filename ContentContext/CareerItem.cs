@@ -15,8 +15,8 @@ namespace CursoBalta.ContentContext
         }
 
         public int Order { get; set; }
-        public string Title { get; set; } = ""; //Ou, em vez de "" também podemos usar string.Empty. Estava dando erro, e esta foi uma forma de consertar, pois a propriedade não são anuláveis (nullable), mas não têm um valor padrão definido.
-        public string Description { get; set; } = ""; //Ou, em vez de "" também podemos usar string.Empty. Estava dando erro, e esta foi uma forma de consertar, pois a propriedade não são anuláveis (nullable), mas não têm um valor padrão definido.
+        public string Title { get; set; } = ""; 
+        public string Description { get; set; } = ""; 
         public Course Course { get; set; }
     }
 }
